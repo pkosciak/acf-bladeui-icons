@@ -2,6 +2,7 @@
   "name": "pkosciak/acf-bladeui-icons",
   "type": "package",
   "description": "BladeUI Icons field for ACF",
+  "license": "MIT",
   "authors": [
     {
       "name": "Paweł Kościak",

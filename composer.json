@@ -1,0 +1,27 @@
+{
+  "name": "pkosciak/acf-bladeui-icons",
+  "type": "package",
+  "description": "BladeUI Icons field for ACF",
+  "authors": [
+    {
+      "name": "Paweł Kościak",
+      "email": "pkosciak@webpacket.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "pkosciak\\ACFBladeUIIcons\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "blade-ui-kit/blade-icons": "^1.7"
+  },
+  "extra": {
+    "acorn": {
+      "providers": [
+        "pkosciak\\ACFBladeUIIcons\\Providers\\PackageServiceProvider"
+      ]
+    }
+  }
+}

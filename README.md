@@ -15,7 +15,7 @@ The ACF BladeUI field also supports Select2, making it even easier to find the p
 
 Follow these steps to install, set up, and use the package:
 
-### Step 1. Install the Package
+### Step 1. Install the package
 
 Use Composer to install the package:
 
